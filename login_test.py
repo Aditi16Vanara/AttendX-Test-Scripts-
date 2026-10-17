@@ -4,6 +4,6 @@ username = "student123"
 password = "test123"
 
 if username and password:
-    print("Login test passed: Fields are filled.")
+    print("Login test execution completed.")
 else:
     print("Login test failed: Fields are empty.")
